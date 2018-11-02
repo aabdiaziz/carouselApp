@@ -10,18 +10,12 @@ export class AppComponent {
 
   constructor() {
     this.items = [
-        {url: '/src/assets/images/image.jpeg'},
-        {url: '/src/assets/images/image2.jpeg'},
-        {url: '/src/assets/images/image3.jpeg'},
-        {url: '/src/assets/images/image4.jpeg'},
-        {url: '/src/assets/images/image5.jpeg'},
-        {url: '/src/assets/images/image6.jpeg'},
-        {url: '/src/assets/images/image.jpeg'},
-        {url: '/src/assets/images/image2.jpeg'},
-        {url: '/src/assets/images/image3.jpeg'},
-        {url: '/src/assets/images/image4.jpeg'},
-        {url: '/src/assets/images/image5.jpeg'},
-        {url: 'assets/images/image6.jpeg'}
+        {url: '/assets/images/image.jpeg'},
+        {url: '/assets/images/image2.jpeg'},
+        {url: '/assets/images/image3.jpg'},
+        {url: '/assets/images/image4.jpg'},
+        {url: '/assets/images/image5.jpg'},
+        {url: '/assets/images/image6.jpg'}
     ];
   }
 }
